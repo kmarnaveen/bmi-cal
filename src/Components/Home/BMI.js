@@ -24,7 +24,7 @@ export const BMI = () => {
   };
   return (
     <div>
-      <h1>BMI calculator</h1>
+      <h1>BMI </h1>
       <div className="flex">
         <div>
           <span>Enter your weight (kg): </span>
